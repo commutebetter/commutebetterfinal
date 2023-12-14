@@ -1,7 +1,11 @@
 **COMMUTEBETTER 🚎**
+
+
 Our project aims to address the critical challenges faced by commuters in Kampala, particularly the heavy dependence on taxis which causes various inefficiencies. To combat this, we propose the development of a comprehensive web-based taxi booking platform.
 
-#The registration and login process enable users to access the taxi booking service.#
+**The registration and login process enable users to access the taxi booking service.*8
+
+
 **Commuter Steps:**
 	**Registration:**
 	Navigate to the website and click on the "Get Started" button.
