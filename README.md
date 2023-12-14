@@ -7,7 +7,7 @@ Our project aims to address the critical challenges faced by commuters in Kampal
 
 Commuter Steps:
 
-	**Registration:**
+	Registration:
  
 	Navigate to the website and click on the "Get Started" button.
 	Fill in required fields: full name, email, phone number, select picture and password.
