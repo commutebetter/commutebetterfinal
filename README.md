@@ -8,7 +8,6 @@ Our project aims to address the critical challenges faced by commuters in Kampal
 Commuter Steps:
 
 	*Registration:*
- 
 	Navigate to the website and click on the "Get Started" button.
 	Fill in required fields: full name, email, phone number, select picture and password.
 	Verify your password through rewriting your password in the “Confirm Password” field.
@@ -21,7 +20,6 @@ Commuter Steps:
  **Admin Steps:**
  
 	**Login:**
- 
 	Access the website and click on the "Log In" button.
 	It takes you to the Commuter Login form, and under the form click on the “Admin Portal” link.
 	Once clicked it takes you to the admin login, Enter the admin email and password.
