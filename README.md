@@ -5,7 +5,7 @@ Our project aims to address the critical challenges faced by commuters in Kampal
 **The registration and login process enable users to access the taxi booking service.**
 
 
-**Commuter Steps:**
+Commuter Steps:
 
 	**Registration:**
  
